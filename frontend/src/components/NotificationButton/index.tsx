@@ -1,6 +1,8 @@
-import icon from "../../assets/img/notification-icon.svg";
+import icon from '../../assets/img/notification-icon.svg';
 
-import "./styles.css";
+import './styles.css';
+
+import { jsxDEV as _jsxDEV } from "react/jsx-dev-runtime";
 
 function NotificationButton() {
   return (
