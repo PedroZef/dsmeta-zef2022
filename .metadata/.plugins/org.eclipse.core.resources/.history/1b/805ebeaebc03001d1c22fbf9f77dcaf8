@@ -1,0 +1,5 @@
+package com.devsuperior.desmeta.entities;
+
+public class Sale {
+
+}

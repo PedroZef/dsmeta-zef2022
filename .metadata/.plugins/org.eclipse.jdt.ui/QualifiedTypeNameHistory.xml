@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.devsuperior.desmeta.services.SaleService"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.time.ZoneId"/>
+    <fullyQualifiedTypeName name="com.twilio.rest.lookups.v1.PhoneNumber"/>
+    <fullyQualifiedTypeName name="com.twilio.rest.api.v2010.account.Message"/>
+    <fullyQualifiedTypeName name="com.twilio.type.PhoneNumber"/>
+</qualifiedTypeNameHistroy>
