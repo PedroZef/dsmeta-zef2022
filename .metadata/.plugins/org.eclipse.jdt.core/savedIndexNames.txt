@@ -1,7 +1,6 @@
 INDEX VERSION 1.131+D:\dsmeta-zef2022\.metadata\.plugins\org.eclipse.jdt.core
 3208364797.index
 3969899082.index
-1965174767.index
 4290634967.index
 671660625.index
 3905285288.index
