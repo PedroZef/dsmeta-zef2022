@@ -7,10 +7,10 @@
 
 ### - Links Utilizados 
 
-* - JDK 17
-* - STS ou ECLIPSE 
-* - Postman
-* - Heroku CLI
-* - NodeJS 16.x [https://nodejs.org/en/download/]
-* - VS Code
-* - Git
+*  JDK 17
+*  STS ou ECLIPSE 
+*  Postman
+*  Heroku CLI
+*  NodeJS 16.x [https://nodejs.org/en/download/]
+* VS Code
+* Git
